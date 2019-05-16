@@ -1,0 +1,18 @@
+{
+    "hello": {
+        "message": "Ahoj světe!\n",
+        "description": "Description"
+    },
+    "orangutan": {
+        "message": "Prova 1",
+        "description": "Description"
+    },
+    "try": {
+        "message": "Prova 2",
+        "description": "Description"
+    },
+    "thanks": {
+        "message": "Prova 3",
+        "description": "Description"
+    }
+}
